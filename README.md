@@ -7,7 +7,7 @@
 #### Stage 3 (Code available in repo PM25-ModelTraining): Machine learning moldeing training
 #### Stage 4 (Code available in repo PM25-Estimation-Reconstrcution or PM25-Estimation-Reconstrcution-Local ): Once model and data are ready, this code make pm25 estimations and generate visulization results.
 
-# Stage 2 PM25-DataMatching 
+# Stage 2: PM25-DataMatching 
 This repo contains code for data matching. To run this code, first download all nessazary data in stage1. 
 Run flowMain.py to maching all varaibles excpet boudary layer hight (PBLH)
 Run PBLH_Match.py to match boudary layer height
